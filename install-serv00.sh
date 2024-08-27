@@ -224,9 +224,9 @@ echo '             |___/                 |___/  '
 # ------------vars-----------
 WORK_DIR="$PWD" # ~/sing-box
 
-gitRowUrl="https://raw.githubusercontent.com/RayWangQvQ/sing-box-installer/main"
+gitRowUrl="https://raw.githubusercontent.com/nxppru/sing-box-installer/main"
 
-sbox_pkg_url="https://pkg.freebsd.org/FreeBSD:14:amd64/latest/All/sing-box-1.9.3.pkg" # https://pkgs.org/download/sing-box
+sbox_pkg_url="https://pkg.freebsd.org/FreeBSD:15:amd64/latest/All/sing-box-1.9.4.pkg" # https://pkgs.org/download/sing-box
 sbox_pkg_fileName="sing-box-1.9.3.pkg"
 sbox_bin_url="https://raw.githubusercontent.com/k0baya/sb-for-serv00/main/sing-box"
 status_sbox=0 # 0.未下载；1.已安装未运行；2.运行
